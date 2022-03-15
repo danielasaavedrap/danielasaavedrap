@@ -10,6 +10,6 @@
 
 ## Contactame en
 
-`<linkedIn>`: (https://www.linkedin.com/in/daniela-saavedra-prieto/ "Perfil LinkedIn Daniela")
+`<linkedIn>`: [Perfil LinkedIn Daniela](https://www.linkedin.com/in/daniela-saavedra-prieto/)
 
 
