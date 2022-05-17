@@ -22,8 +22,8 @@ Tools:
 - [ ] JavaScript
 - [ ] React JS
 
-`<math calculators>:` [click here to see the project](https://calculadoras-matematicas.netlify.app)
-Tools: 
+`math calculators:` [click here to see the project](https://calculadoras-matematicas.netlify.app)
+
 - [x] HTML 
 - [x] CSS
 - [x] JavaScript
