@@ -16,13 +16,13 @@ ________________________________________________________________________________
 ### Main Projects
 
 `<Layout Podcast>:` [click here to see the project](https://danielasaavedrapodcast.netlify.app)
-Tools: 
+
 - [x] HTML 
 - [x] CSS
 - [ ] JavaScript
 - [ ] React JS
 
-`math calculators:` [click here to see the project](https://calculadoras-matematicas.netlify.app)
+`<math calculators>:` [click here to see the project](https://calculadoras-matematicas.netlify.app)
 
 - [x] HTML 
 - [x] CSS
@@ -30,14 +30,14 @@ Tools:
 - [ ] React JS
 
 `<To Do List App>:`[click here to see the project](https://todolistdaniela.netlify.app)
-Tools: 
+
 - [x] HTML 
 - [x] CSS
 - [x] JavaScript
 - [x] React JS
 
 `<Hotel finder>:` [click here to see the project](https://buscadordehoteles.netlify.app)
-Tools: 
+
 - [x] HTML 
 - [x] CSS
 - [x] JavaScript
