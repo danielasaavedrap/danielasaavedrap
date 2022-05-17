@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 ## Contact me:
 
-`<linkedIn>`: [Ingresa al Perfil LinkedIn Daniela](https://www.linkedin.com/in/daniela-saavedra-prieto/)
+`<linkedIn>`: [Go to my LinkedIn Profile](https://www.linkedin.com/in/daniela-saavedra-prieto/)
 `<Whatsapp>`: (+57) 3112486096
 `<Email>`: danielasaavedraprieto@gmail.com
 
