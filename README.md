@@ -5,7 +5,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 
 
-* I'm Multimedia engineer and Web Developer Front-End
+* I'm Multimedia engineer and Front-End Web Development
 * Every day I strengthen my skills in Front-End Web Development
 * I was part of the talent promoter [Protalento Latam](https://www.protalento.org/)
 * Continuously study in [Platzi](https://platzi.com/) and [Acamica](https://www.acamica.com)
