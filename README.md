@@ -36,7 +36,7 @@ ________________________________________________________________________________
 - [x] JavaScript
 - [x] React JS
 
-`<Hotel finder>:` [click here to see the project](https://buscadordehoteles.netlify.app)
+`<Hotel search>:` [click here to see the project](https://buscadordehoteles.netlify.app)
 
 - [x] HTML 
 - [x] CSS
