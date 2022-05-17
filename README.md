@@ -1,7 +1,7 @@
 # ¡Hey there! 
 ## I'm Daniela Saavedra Prieto 👋
 ______________________________________________________________________________________________________________________________
-![](https://github.com/danielasaavedrap/danielasaavedrap/blob/main/portada-git.jpg?raw=true)
+![](https://github.com/danielasaavedrap/danielasaavedrap/blob/main/github.jpg)
 ______________________________________________________________________________________________________________________________
 
 
