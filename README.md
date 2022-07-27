@@ -39,7 +39,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 
 ## Note: 
-I am constantly studying and learning new languages that enhance my talent. Some languages I am learning are: MySQL, Angular, TypeScript, Jest, REST API.
+I am constantly studying and learning new languages that enhance my talent. Some languages I am learning are: MySQL, Angular, Jest, REST API.
 
 ______________________________________________________________________________________________________________________________
 
