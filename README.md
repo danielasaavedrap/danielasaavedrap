@@ -7,9 +7,6 @@ ________________________________________________________________________________
 
 * I'm Multimedia engineer and Front-End Web Development
 * Every day I strengthen my skills in Front-End Web Development
-* I was part of the talent promoter [Protalento Latam](https://www.protalento.org/)
-* I continuously study in [Platzi](https://platzi.com/) and [Acamica](https://www.acamica.com)
-* I am looking to collaborate with a work team in which I can develop my skills and continue to grow professionally.
 
 ______________________________________________________________________________________________________________________________
 
@@ -39,7 +36,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 
 ## Note: 
-I am constantly studying and learning new languages that enhance my talent. Some languages I am learning are: MySQL, Angular, Jest, REST API.
+I am constantly studying and learning new languages that enhance my talent. Some items I am learning are: Jest - React testing library, Three.js, and others
 
 ______________________________________________________________________________________________________________________________
 
