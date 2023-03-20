@@ -12,26 +12,37 @@ ________________________________________________________________________________
 
 ### Main Projects
 
+`<Tecnology Podcast>:` [click here to see the project](https://danielasaavedrapodcast.netlify.app/)
+
+- [x] HTML 
+- [x] CSS
+- [ ] JavaScript
+- [ ] React JS
+- [ ] TypeScript
+
 `<math calculators>:` [click here to see the project](https://calculadoras-matematicas.netlify.app)
 
 - [x] HTML 
 - [x] CSS
 - [x] JavaScript
 - [ ] React JS
+- [ ] TypeScript
 
 `<To Do List App>:`[click here to see the project](https://todolistdaniela.netlify.app)
 
 - [x] HTML 
 - [x] CSS
-- [x] JavaScript
 - [x] React JS
+- [ ] JavaScript
+- [ ] TypeScript
 
 `<Hotel search>:` [click here to see the project](https://buscadordehoteles.netlify.app)
 
 - [x] HTML 
 - [x] CSS
-- [x] JavaScript
 - [x] React JS
+- [ ] JavaScript
+- [ ] TypeScript
 
 ______________________________________________________________________________________________________________________________
 
