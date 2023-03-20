@@ -45,7 +45,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 
 ## Note: 
-I am constantly studying and learning new languages that enhance my talent. Some items I am learning are: Jest - React testing library, Three.js, and others
+I am constantly studying and learning new languages that enhance my talent. Some items I am learning are: Jest - React testing library, Three.js, SOLID, and others
 
 ______________________________________________________________________________________________________________________________
 
