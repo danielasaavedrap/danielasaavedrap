@@ -34,7 +34,7 @@ ________________________________________________________________________________
 - [ ] React JS
 - [ ] TypeScript
 
-`<Math Genius>:` [click here to see the project](https://calculadoras-matematicas.netlify.app)
+`<Math Genius>:` [click here to see the project](https://mathgenius-daniela.netlify.app)
 
 - [x] HTML 
 - [x] CSS
