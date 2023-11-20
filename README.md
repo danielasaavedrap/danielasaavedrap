@@ -14,7 +14,7 @@ As a passionate front-end developer, I specialize in crafting delightful user ex
 - Version Control (Git): Collaborative development and code versioning.
 ______________________________________________________________________________________________________________________________
 
-  [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,ts,nodejs,git,jest,figma,materialui,postman,redux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,ts,nodejs,git,jest,figma,materialui,postman,redux)]
 
 ## :star2: What Sets Me Apart 
 
