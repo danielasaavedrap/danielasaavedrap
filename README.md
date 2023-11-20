@@ -33,6 +33,7 @@ ________________________________________________________________________________
 - [ ] JavaScript
 - [ ] React JS
 - [ ] TypeScript
+- [ ] Jest - React testing library
 
 `<Math Genius>:` [click here to see the project](https://mathgenius-daniela.netlify.app)
 
@@ -40,7 +41,7 @@ ________________________________________________________________________________
 - [x] CSS
 - [x] React JS
 - [x] TypeScript
-- [x] Jest - React testing library
+- [ ] Jest - React testing library
 
 `<To Do List App>:`[click here to see the project](https://todolistdaniela.netlify.app)
 
@@ -48,6 +49,7 @@ ________________________________________________________________________________
 - [x] CSS
 - [x] React JS
 - [ ] TypeScript
+- [ ] Jest - React testing library
 
 `<Hotel search>:` [click here to see the project](https://buscadordehoteles.netlify.app)
 
@@ -55,6 +57,7 @@ ________________________________________________________________________________
 - [x] CSS
 - [x] React JS
 - [ ] TypeScript
+- [ ] Jest - React testing library
 
 
 ## :envelope: Let's Connect! 
