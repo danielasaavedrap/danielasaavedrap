@@ -65,7 +65,6 @@ ________________________________________________________________________________
 I'm actively seeking new opportunities and collaborations. If you're looking for a front-end developer who is passionate about creating exceptional user interfaces, let's connect! Feel free to reach out via LinkedIn or Email.
 
 `<linkedIn>`: [Go to my LinkedIn Profile](https://www.linkedin.com/in/daniela-saavedra-prieto/)
-`<Whatsapp>`: (+57) 3112486096
 `<Email>`: danielasaavedraprieto@gmail.com
 
 ### Let's build something amazing together! 🚀 
