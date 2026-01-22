@@ -23,41 +23,7 @@ ________________________________________________________________________________
 - Collaborative Team Player: Excited to contribute and learn in a team-oriented environment.
 - Continuous Learner: Keeping up-to-date with the latest industry trends and best practices.
 
-## :computer: Featured Projects
 
-
-`<Tecnology Podcast>:` [click here to see the project](https://danielasaavedrapodcast.netlify.app/)
-
-- [x] HTML 
-- [x] CSS
-- [ ] JavaScript
-- [ ] React JS
-- [ ] TypeScript
-- [ ] Jest - React testing library
-
-`<Math Genius>:` [click here to see the project](https://mathgenius-daniela.netlify.app)
-
-- [x] HTML 
-- [x] CSS
-- [x] React JS
-- [x] TypeScript
-- [ ] Jest - React testing library
-
-`<To Do List App>:`[click here to see the project](https://todolistdaniela.netlify.app)
-
-- [x] HTML 
-- [x] CSS
-- [x] React JS
-- [ ] TypeScript
-- [ ] Jest - React testing library
-
-`<Hotel search>:` [click here to see the project](https://buscadordehoteles.netlify.app)
-
-- [x] HTML 
-- [x] CSS
-- [x] React JS
-- [ ] TypeScript
-- [ ] Jest - React testing library
 
 
 ## :envelope: Let's Connect! 
